@@ -3,3 +3,4 @@
 
 * investigar los planes del DR. DOOM
 * localizar la ciudad de Namor
+* capturar a redSkull
